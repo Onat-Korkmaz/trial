@@ -6,5 +6,6 @@ int main() {
     int a = 3;
     int b = 5;
     int c = a + b;
+    std::cout << "Hello, Nilsu Urkmez!" << std::endl;
     return 0;
 }
